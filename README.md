@@ -1,6 +1,6 @@
 # Programacion-Assembler
 
-Este repositorio contiene ejercicios y proyectos realizados en lenguaje ensamblador. A continuación, se describe el primer ejercicio incluido:
+Este repositorio contiene ejercicios y proyectos realizados en lenguaje ensamblador. A continuación, se describen los ejercicios incluidos:
 
 ## Ejercicio 1
 
@@ -24,4 +24,15 @@ El programa debe presentar un menú que permita al usuario seleccionar el format
 Este ejercicio tiene como objetivo practicar el manejo de registros, la manipulación de datos en diferentes formatos numéricos y la interacción con el usuario mediante menús.
 
 ---
+
+## Ejercicio 2
+
+### Descripción
+Realizar un programa que permita el ingreso de una fecha. La fecha debe tratarse en un registro. Además, se debe solicitar un número de días, sumar ese número a la fecha ingresada y mostrar la nueva fecha, con el mes representado en formato literal.
+
+### Objetivo
+Este ejercicio tiene como objetivo practicar la manipulación de fechas, el uso de registros y la conversión de datos numéricos a formatos literales.
+
+---
+
 ¡Explora el código y aprende más sobre programación en ensamblador!
