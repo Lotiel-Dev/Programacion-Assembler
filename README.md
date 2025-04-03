@@ -35,4 +35,18 @@ Este ejercicio tiene como objetivo practicar la manipulación de fechas, el uso 
 
 ---
 
+## Ejercicio 3
+
+### Descripción
+Realizar un programa que solo permita el ingreso de números (N) de hasta dos dígitos cada uno. Posteriormente, se debe:
+
+1. Mostrar todos los números primos ingresados.
+2. Calcular y mostrar el promedio de todos los números ingresados.
+3. Calcular y mostrar la media de todos los números ingresados.
+
+### Objetivo
+Este ejercicio tiene como objetivo practicar la validación de datos de entrada, el manejo de números primos y la realización de cálculos estadísticos básicos.
+
+---
+
 ¡Explora el código y aprende más sobre programación en ensamblador!
