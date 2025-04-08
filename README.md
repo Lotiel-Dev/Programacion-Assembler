@@ -49,4 +49,17 @@ Este ejercicio tiene como objetivo practicar la validación de datos de entrada,
 
 ---
 
+## Ejercicio 4
+
+### Descripción
+Realizar un programa que solo permita el ingreso de 3 números de hasta 3 dígitos cada uno. Posteriormente, se debe:
+
+1. Sumar el número medio y el menor, y mostrar la tabla de suma de cada dígito del resultado.
+2. Restar el número mayor y el menor, y mostrar la tabla de multiplicación del primer y último dígito del resultado.
+
+### Objetivo
+Este ejercicio tiene como objetivo practicar la manipulación de números, la generación de tablas de suma y multiplicación, y el análisis de los dígitos de un número.
+
+---
+
 ¡Explora el código y aprende más sobre programación en ensamblador!
