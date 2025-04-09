@@ -62,4 +62,19 @@ Este ejercicio tiene como objetivo practicar la manipulación de números, la ge
 
 ---
 
+## Ejercicio 5
+
+### Descripción
+Realizar un programa que muestre un menú con las siguientes opciones:
+
+1. Ingreso de números.
+2. Ingreso de operación.
+3. Selección de sistema numérico (binario, decimal, octal, hexadecimal).
+4. Mostrar el resultado en el sistema numérico seleccionado.
+
+### Objetivo
+Este ejercicio tiene como objetivo practicar la creación de menús interactivos, la selección de sistemas numéricos y la realización de operaciones matemáticas con representación en diferentes sistemas numéricos.
+
+---
+
 ¡Explora el código y aprende más sobre programación en ensamblador!
