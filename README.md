@@ -77,4 +77,14 @@ Este ejercicio tiene como objetivo practicar la creación de menús interactivos
 
 ---
 
+## Ejercicio 6
+
+### Descripción
+Realizar un programa para contabilizar las repeticiones de un carácter determinado por el usuario. Según el número de repeticiones de ese carácter, se deben mostrar las tablas matemáticas del número de repeticiones.
+
+### Objetivo
+Este ejercicio tiene como objetivo practicar la manipulación de cadenas, el conteo de caracteres y la generación de tablas matemáticas basadas en un valor calculado.
+
+---
+
 ¡Explora el código y aprende más sobre programación en ensamblador!
