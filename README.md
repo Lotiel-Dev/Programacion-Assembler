@@ -87,4 +87,4 @@ Este ejercicio tiene como objetivo practicar la manipulación de cadenas, el con
 
 ---
 
-¡Explora el código y aprende más sobre programación en ensamblador!!!!
+¡Explora el código y aprende más sobre programación en ensamblador!!!!!
